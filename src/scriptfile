@@ -1,0 +1,18 @@
+Script started on Fri 04 Apr 2014 10:25:16 PM NDT
+softskeleton@softskeleton:~/workspace/PhoneLookup/src$ java PHon[K[K[Khone:ooku[K[K[K[K[KLookup
+Lookup N)ame, P)hone number, Q)uit?
+N
+Enter name:
+Abbott, Amy
+Phone number: 408-924-1669
+Lookup N)ame, P)hone number, Q)uit?
+P
+Enter phone number:
+408-924-3159
+Name: Abriam-Yago, Kathy
+Lookup N)ame, P)hone number, Q)uit?
+Q
+softskeleton@softskeleton:~/workspace/PhoneLookup/src$ exit
+exit
+
+Script done on Fri 04 Apr 2014 10:26:03 PM NDT
